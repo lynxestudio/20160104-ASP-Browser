@@ -1,4 +1,4 @@
-# Obteniendo las características del browser en ASP.NET</title>
+# Obteniendo las características del browser en ASP.NET
 		
 <p align="justify">
 		La portabilidad en el browser (navegador) ha sido siempre un tema discutible desde los primeros inicios del desarrollo Web.</p>
