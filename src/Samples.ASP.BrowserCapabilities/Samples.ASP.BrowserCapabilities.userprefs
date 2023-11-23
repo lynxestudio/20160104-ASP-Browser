@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Samples.ASP.BrowserCapabilities/Samples.ASP.BrowserCapabilities.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Samples.ASP.BrowserCapabilities/Default.aspx.cs">
+    <Files>
+      <File FileName="Samples.ASP.BrowserCapabilities/Default.aspx.cs" Line="13" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
