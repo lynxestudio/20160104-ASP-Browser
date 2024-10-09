@@ -8,5 +8,5 @@
 <p align="justify">Con el siguiente código se ejemplifica la utilización de esta clase en una página ASP .NET que despliega la información del browser.</p>
 <p>Al ejecutar la página ASP.NET, el resultado es el siguiente:</p>
 <div>
-<IMG src="picture_library/browserCapability/fig1.png" width="777">
+<IMG src="images/fig1.png">
 </div>
